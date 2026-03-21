@@ -1,0 +1,32 @@
+Name - Chhavi Sharma
+Registration Number - 25BCE10242
+Project Topic - House Price Predictor
+Language Used - Python
+
+Introduction :It is a system which tells about the price of a house based on the space , number of bedrooms and timespan of the house .
+
+1.The problem - It is a problem of predicting the rate of a house on the basis of space , number of bedrooms and timespan of the house .
+
+2.Importace - The House Price Predictor helps to automatically predict the price of the house with the help of simple calculation . 
+
+3.Solution of the problem - The steps needed to predict the price of the house are:
+  
+ 1.Import 'pandas' and 'LinearRegression'.
+ 2.Enter the details about the house such as space , number of bedrooms ,timespan and the rate of the house in dictionary .
+ 3.Convert the data in tabular form using 'pd.DataFrame()'.
+ 4.Separate input(X)data  and output(Y)data.
+ 5.Formula used = rate = w1.space + w2.bedrooms + w3.timespan + b
+ 6.Train function and then find w1,w2,w3,b .
+ 7.Take inputs from user such as space, bedrooms, timespan .
+ 8.Use rate predictor 'model.predict()' to predict the price of house .
+ 9.Print the price , roundoff the digits to 4 decimal places and use lakhs as the unit of measurement .
+
+4.Challenges faced - 
+ 1.Feeding details correctly.
+ 2.Taking correct data from the users .
+ 3.Calculating the price of the house using the formula .
+
+5.Learning and Key takeaways -
+ 1.Donot write useless codes.
+ 2.Add comments to the code to make it more easily understandable .
+ 3.Use libraries and formula for easy coding and calculations.
