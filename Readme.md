@@ -32,3 +32,11 @@ It automatically predict the price of the house with the help of simple calculat
 - Donot skip any step otherwise it will show error. 
 - Read the code carefully and follow each step line wise .
 
+## Output Screenshot
+<img width="1441" height="563" alt="One" src="https://github.com/user-attachments/assets/ef5b855f-8cca-426e-9b21-1c7964fc1bf2" />
+<img width="1434" height="644" alt="Two" src="https://github.com/user-attachments/assets/65263ef9-0283-4382-886e-11748295d6a0" />
+<img width="1399" height="270" alt="Result" src="https://github.com/user-attachments/assets/3f88d216-dca0-4ba6-b10b-fb8ac0902fb7" />
+
+
+
+
